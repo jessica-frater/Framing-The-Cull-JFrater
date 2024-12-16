@@ -1,5 +1,4 @@
-# Framing-The-Cull-JFrater
-**Abstract**
+# Abstract
 
 1.	Wild deer are iconic symbols of Scotland’s cultural heritage, but their burgeoning populations are increasingly contributing to ecological and socio-economic harm. In response, the Scottish Government is considering new policy measures to increase the annual deer cull. However, this faces potential public backlash, and substantial Scottish media coverage acknowledges the broader implications for wildlife conservation and land management. 
 2.	We used an online experiment to test whether members of the Scottish public perceived increasing the deer cull in Scotland to be more or less acceptable depending on how messages are framed in mock online news articles. Drawing from frames used in existing national news coverage on this issue, we tested the influence of text frames, gain/loss frames, and image frames . 
