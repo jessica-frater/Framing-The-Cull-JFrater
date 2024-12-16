@@ -1,1 +1,8 @@
 # Framing-The-Cull-JFrater
+**Abstract**
+
+1.	Wild deer are iconic symbols of Scotland’s cultural heritage, but their burgeoning populations are increasingly contributing to ecological and socio-economic harm. In response, the Scottish Government is considering new policy measures to increase the annual deer cull. However, this faces potential public backlash, and substantial Scottish media coverage acknowledges the broader implications for wildlife conservation and land management. 
+2.	We used an online experiment to test whether members of the Scottish public perceived increasing the deer cull in Scotland to be more or less acceptable depending on how messages are framed in mock online news articles. Drawing from frames used in existing national news coverage on this issue, we tested the influence of text frames, gain/loss frames, and image frames . 
+3.	Participants generally perceived increasing the cull to be more acceptable than unacceptable, indicating public support. We found little to no evidence in this study that perceptions of acceptability are sensitive to message framing. Only the image frame influenced variation in the acceptability of increasing the deer cull, and the effect size was not large. 
+4.	Instead, participants’ gender identity, self-reported social identities (if they identified as a deer stalker or animal protectionist), general experiences and perceptions of deer, and trust in the Scottish Government better explained differences in perceptions. 
+5.	_Policy implications:_ Pre-existing opinions and social identities may diminish the effectiveness of message framing in this context, offering insights for organisations active in the discourse around deer management reform in Scotland.   
